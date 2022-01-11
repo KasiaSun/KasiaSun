@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KasiaSun
-- 👀 I’m interested in commerce, payments, crypto, blockchain, start-ups.
+- 👀 I’m interested in commerce, payments, crypto, blockchain, start-ups, & web 3.0.
 - 💸 I help start-ups that want to improve their e-commerce presence. 
 - 📫 How to reach me - connect with me on [LinkedIn!](https://www.linkedin.com/in/kasiasitkiewicz/)
 
