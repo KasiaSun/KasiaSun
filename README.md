@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @KasiaSun
-- 👀 I’m interested in commerce, payments, web 3 💙
+- 👋 Hi, I’m KasiaSun
+- 👀 Doing Growth work @ GitHub and I founded Web 3 team 💙
+
 
 
 <!---
