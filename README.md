@@ -1,5 +1,5 @@
 - 👋 Hi, I’m KasiaSun
-- 👀 Doing growth work @ GitHub and I founded GitHub Web 3 team 💙
+- 👀  I' a Growtgh PM @ GitHub and Web 3 enthusiast 💙
 
 
 
