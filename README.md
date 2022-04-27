@@ -1,5 +1,5 @@
 - 👋 Hi, I’m KasiaSun
-- 👀  I' a Growtgh PM @ GitHub and Web 3 enthusiast 💙
+- 👀 PM @ GitHub and Web 3 enthusiast 💙
 
 
 
