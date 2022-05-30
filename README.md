@@ -1,5 +1,6 @@
 - 👋 Hi, I’m KasiaSun
-- 👀 PM @ GitHub and Web 3 enthusiast 💙
+- 👀 PM @ GitHub 
+- 💙 Web 3  
 
 
 
