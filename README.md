@@ -1,6 +1,6 @@
 - 👋 Hi, I’m KasiaSun
 - 👀 PM @ GitHub 
-- 💙 Web 3  
+- 💙 Payments, Growth & Web 3  
 
 
 
