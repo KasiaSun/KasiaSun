@@ -1,4 +1,4 @@
-- 👋 Hi, I’m KasiaSun
+- 👋 Hi, I’m Kasia 
 - PM @ GitHub 
 - Building [gov4git](https://gov4git.org/), a decentralized protocol for governing open-source communities based on git.
 
