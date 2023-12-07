@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Kasia 
-- PM @ GitHub 
-- Building [gov4git](https://gov4git.org/), a decentralized protocol for governing open-source communities based on git.
+- 👋 Hi, I'm Kasia, PM at GitHub.
+- :octocat: I've contributed to shipping various GitHub products, including GitHub Actions, Sponsors, Codespaces, Copilot, Advanced Security, Enterprise Cloud, GitHub for Startups, and a few more 🙂. 
+- My team is responsible for crafting GitHub's onboarding experience and guiding you to discover GitHub products. 
+- 🚧 On the side, I'm working on [gov4git](https://gov4git.org/), a decentralized protocol for governing open-source communities. 
 
 
 
