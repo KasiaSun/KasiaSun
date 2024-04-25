@@ -1,8 +1,7 @@
-- 👋 Hi, I'm Kasia, PM at GitHub.
-- :octocat: I've contributed to shipping various GitHub products, including GitHub Actions, Sponsors, Codespaces, Copilot, Advanced Security, Enterprise Cloud, GitHub for Startups, and a few more 🙂. 
-- My team is responsible for crafting GitHub's onboarding experience and guiding you to discover GitHub products. 
-- 🚧 On the side, I'm working on [gov4git](https://gov4git.org/), a decentralized protocol for governing open-source communities. 
-
+- 👋 Hi, I'm Kasia, a PM at GitHub.
+- :octocat: I've played a role in launching several GitHub products like GitHub Actions, Sponsors, Codespaces, Copilot, Advanced Security, Enterprise Cloud, GitHub for Startups, and more 🙂. 
+- My team focuses on creating GitHub's onboarding journey and helping you explore our products.
+- 🚧 Additionally, I'm involved in gitrules, a decentralized protocol designed for governing open-source communities. 
 
 
 <!---
