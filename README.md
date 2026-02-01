@@ -1,5 +1,11 @@
-- 👋 Hi, I'm a product manager who helped shape some of GitHub's coolest products ✨
-- :octocat: During my time at GitHub, I worked on products like Copilot, Codespaces, Advanced Security, Sponsors, Actions, Enterprise Cloud, and GitHub for Startups.
+👋 Hi, I'm Kasia — a product manager with 10+ years of experience building and scaling developer tools.
+
+- 🚀 Currently leading PLG at **XBOW**, working at the intersection of security, infrastructure, and developer experience.
+- :octocat: Previously at **GitHub**, where I worked on **Copilot**, **Codespaces**, **Advanced Security**, **Sponsors**, **Actions**, **Enterprise Cloud**, and **GitHub for Startups**.
+
+<!---
+KasiaSun/KasiaSun is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+--->
 
 <!---
 KasiaSun/KasiaSun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
