@@ -1,4 +1,4 @@
-👋 Hi, I'm Kasia — a product manager with 10+ years of experience building and scaling developer tools.
+👋 Hi, I'm Kasia 
 
 - 🚀 Currently leading PLG at **XBOW**, working at the intersection of security, infrastructure, and developer experience.
 - :octocat: Previously at **GitHub**, where I worked on **Copilot**, **Codespaces**, **Advanced Security**, **Sponsors**, **Actions**, **Enterprise Cloud**, and **GitHub for Startups**.
